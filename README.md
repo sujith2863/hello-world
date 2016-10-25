@@ -1,2 +1,2 @@
 # hello-world
-repository to learn Git hub functionality
+Changing the read me file.
